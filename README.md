@@ -9,7 +9,7 @@ Why don't you give it a try?
 You need to run this every time Roblox updates:
 
 ```sh
-curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/L8X/Roblox-Client-Optimizer-Mac/main/RCOInstaller.sh | sh
+curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/Dthesle/RCO-Mac-Custorm/main/RCOInstaller.sh | sh
 ```
 
 # About RCO
